@@ -15,6 +15,6 @@ public class FloatTypeCasting {
 
     public static void main(String[] args) {
         FloatTypeCasting ftc = new FloatTypeCasting();
-        ftc.roundNumber(9.5f);
+        ftc.roundNumber(0.7f);
     }
 }
